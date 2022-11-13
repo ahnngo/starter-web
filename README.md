@@ -13,3 +13,5 @@ Just use subline to open it. Not too complicated.
 ### How to contribute
 
 Open subline and write
+
+2014 Git.Training.
