@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Anh     helloanhngo2002@gmail.com
 
 # THANKS
 
