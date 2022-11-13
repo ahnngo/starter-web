@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ## Deployment 
 
-Just use subline to open it
+Just use subline to open it. Not too complicated.
 
 ### How to contribute
+
+Open subline and write
