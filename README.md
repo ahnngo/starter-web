@@ -12,6 +12,6 @@ Just use subline to open it. Not too complicated.
 
 ### How to contribute
 
-Open subline and write
+Open subline and write. Please fork this repo for review
 
 2014 Git.Training.
