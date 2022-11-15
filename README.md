@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Anh Ngo
+This repository is for showing how Git and GitHub work. Anh Ngo. Adding a line for rebasing example
 
 ## Purpose
 
