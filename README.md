@@ -14,4 +14,4 @@ Just use subline to open it. Not too complicated.
 
 Open subline and write. Please fork this repo for review
 
-2014 Git.Training.
+2014 Git.Training. All right reserved
